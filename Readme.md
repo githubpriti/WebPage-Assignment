@@ -5,6 +5,8 @@
 
 **The project took almost 1.5 days to complete.**
 
+**With the help of HTML and CSS I did this webpage.**
+
 **What I learned in this project** :
 
 ***
@@ -16,5 +18,7 @@
 ***
 
 ![badge](https://img.shields.io/badge/InternFrontEndDeveloper-Assignment-INeuron)
+
+![badge](https://img.shields.io/badge/HTML-CSS-INeuron)
 
 ![image](./Web%20capture_12-2-2024_162146_uicookies.com.jpeg)
